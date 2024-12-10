@@ -1,0 +1,6 @@
+# masking_policies.txt
+# database,table,column,masking_option
+mydb,mytable,ssn,MASK
+mydb,mytable,credit_card,MASK_SHOW_LAST_4
+mydb,customers,email,MASK_HASH
+sales,orders,order_total,MASK_NULL
