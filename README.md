@@ -122,24 +122,4 @@ Error processing unsupported_file.jpg: Unsupported file type: unsupported_file.j
 Total processing time: 10.50 seconds
 ```
 
-Model name	Varient
-Llama 2	"https://huggingface.co/meta-llama/Llama-2-7b
-https://huggingface.co/meta-llama/Llama-2-13b
-https://huggingface.co/meta-llama/Llama-2-70b
-https://huggingface.co/QuantFactory/Clinical-BR-LlaMA-2-7B-GGUF
-https://huggingface.co/support-pvelocity/Llama-2-7B-instruct-text2sql-GGUF"
-Mistral	"https://huggingface.co/mistralai/Mistral-7B-v0.3
-https://huggingface.co/igans/Mistral-7B-v0.3-Q4_K_M-GGUF
-https://huggingface.co/tharun66/Mistral-7B-Text2SQL"
-Code llama	"https://huggingface.co/meta-llama/CodeLlama-7b-hf
-https://huggingface.co/meta-llama/CodeLlama-13b-hf
-https://huggingface.co/meta-llama/CodeLlama-34b-hf
-https://huggingface.co/amgdev9/CodeLlama-7b-hf-Q4_K_M-GGUF"
-Deepseek	"https://huggingface.co/deepseek-ai/deepseek-llm-67b-base
-https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
-https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF/blob/main/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf"
-Embedding	"https://huggingface.co/BAAI/bge-large-en-v1.5
-https://huggingface.co/NovaSearch/stella_en_1.5B_v5
-https://huggingface.co/BAAI/bge-reranker-v2-m3"
-![image](https://github.com/user-attachments/assets/f77ed4bd-23c7-4135-bc95-c69651c26f57)
 
