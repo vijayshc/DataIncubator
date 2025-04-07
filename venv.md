@@ -244,7 +244,6 @@ Large Environments: Very large venv archives can increase the startup time for y
 Dependencies: Ensure all required packages (your custom one and its dependencies, plus any other libraries like pandas, numpy, etc.) are installed in the venv before packaging.
 
 
-![image](https://github.com/user-attachments/assets/8d3f09bb-6d73-4057-a0a2-6cc8129f80b1)
 
 
 YARN Logs: If your job fails with ImportError, check the YARN application logs (accessible via Hue or ResourceManager UI). Look at the stderr logs for the executors. They will show the exact Python error, often revealing which package is missing or if the Python path is incorrect. You can add debug prints like print(sys.executable) or os.listdir('.') in your script to see what the executor sees.
